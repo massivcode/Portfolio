@@ -1,6 +1,5 @@
 # Portfolio
 
----
 풀스택 개발자를 지향하고 있습니다.
 
 첫 개발은 안드로이드로 시작했으며 이후 프로젝트를 진행하며 Node.js 를 통해 백엔드 개발에 입문하였습니다.
@@ -13,7 +12,7 @@
 > Email : [massivcode@gmail.com](mailto:massivcode@gmail.com)
 
 ## Skills
----
+
 ### 1. Backend
 1. Node.js
 2. Spring
@@ -38,7 +37,7 @@
 5. OCBCD
 
 ## Projects
----
+
 ### 1. Mobile Application
 1. [출사가기 좋은 날](https://play.google.com/store/apps/details?id=com.massivcode.sunrisesetviewer) : 사진 동호회를 위한 특정 지역의 현재 날씨 및 3일간 예보 그리고 일출, 일몰 시간 제공
 2. [심플 뮤직 플레이어](https://play.google.com/store/apps/details?id=com.massivcode.androidmusicplayer) : 로컬 기반 뮤직플레이어 (2015.11 ~ 2016.12)
@@ -64,7 +63,6 @@
 8. [개인용 블로그](http://massivcode.iptime.org) (Node.js) : 현재 보고 계신 블로그 (2017.06 ~ 2017.06)
 
 ## Etc
----
 1. 2015 Google HackFair
 2. 2016 동계 아주대학교 안드로이드 강의 출강 (2016.01)
 3. [수원스마트앱개발학원](https://www.suwonsmartapp.com/) 주말 안드로이드 수업진행 (2016.06 ~ 2016.08)

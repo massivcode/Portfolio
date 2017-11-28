@@ -45,6 +45,8 @@
 9. 동화나라 이야기 (미출시) : TTS 를 이용한 유아교육용 동화책 리더 애플리케이션 (2017.02 ~ 2017.02)
 10. [Move]() : 대리운전 , 라이딩(택시) , 카쉐어링 , 렌터카 서비스를 제공하는 여러 애플리케이션의 기능을 활용하여 가격비교 서비스를 제공하는 애플리케이션 (2017.02 ~ 2017.03)
 11. 오지의 마법사 (미출시) : 대리기사와 대리기사를 이동시켜주는 꽁지기사간의 콜 요청, 콜 수락, 실시간 위치확인, 통신 관련 애플리케이션 (2017.04 ~ 2017.05)
+12. [OverViewer](https://play.google.com/store/apps/details?id=com.overviewer) : [플레이오버워치](https://playoverwatch.com/ko-kr/) HTML 파싱을 이용한 오버워치 전적정보 조회 어플리케이션 (2017.06~2017.06)
+13. [FYD - For Your Diablo](https://play.google.com/store/apps/details?id=com.choisfamily.fyd) : 블리자드 API 를 이용한 디아블로3 전투정보실 어플리케이션 (2017.06~2017.07)
 
 ### 2. Backend & Api Server
 1. 샘플조아 관리자 페이지 및 API 서버 (JSP -> Node.js) : 샘플조아 관련 프로젝트 (2016.06 ~ 2016.07)

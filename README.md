@@ -15,14 +15,9 @@
 
 ### 1. Backend
 1. Node.js
-2. Spring
 
-### 2. Frontend
-1. Anguler
-
-### 3. Mobile
+### 2. Mobile
 1. Android (Java, Kotlin)
-2. iOS (Swift)
 
 ### 4. Database
 1. Mysql (Mariadb)

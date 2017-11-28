@@ -59,7 +59,7 @@
 5. 오지의 마법사 API 서버 및 Socket 통신 서버 (Node.js, Socket.io) : 오지의 마법사 관련 프로젝트 (2017.04 ~ 2017.05)
 6. [최씨세가 홈페이지](http://choisroyalfamily.com/) (Node.js) : 운영중인 기업의 포트폴리오용 홈페이지 (2017.05 ~ 2017.05)
 7. [웹 마크다운 에디터](http://choisroyalfamily.com/markdown) (Node.js) : 실시간 마크다운 프리뷰가 지원되는 웹 페이지 (2017.05 ~ 2017.06)
-8. [개인용 블로그](http://massivcode.com) (Node.js) : Tistory(2017.11 ~ 2017.11)
+8. [개인용 블로그](http://massivcode.com) (Node.js) : Tistory에서 제공하는 스킨을 이용하여 프론트엔드를 이용한 Node.js 기반 블로그(2017.11 ~ 2017.11)
 
 ## Etc
 1. 2015 Google HackFair

@@ -34,7 +34,7 @@
 ## Projects
 
 ### 1. Mobile Application
-1. [심플 뮤직 플레이어](https://play.google.com/store/apps/details?id=com.massivcode.androidmusicplayer) : 로컬 기반 뮤직플레이어 (2015.11 ~ 2016.12)
+1. [심플 뮤직 플레이어](https://play.google.com/store/apps/details?id=com.massivcode.androidmusicplayer) : 로컬 기반 뮤직플레이어 (2015.11 ~ 2015.12)
 2. [Jeegy](https://play.google.com/store/apps/details?id=com.cssmart.jeegy) : IOT 디바이스와의 BLE 통신을 이용한 자전거 도난 및 분실방지, 트래킹 애플리케이션 (2016.02 ~ 2016.04)
 3. [아이오디 Driver](https://play.google.com/store/apps/details?id=com.cssmart.cood) : 대리운전 서비스 및 Beacon Search를 이용한 미아방지 캠페인 애플리케이션 (2016.04 ~ 2016.05)
 4. [샘플조아](https://play.google.com/store/apps/details?id=com.samplejoa) : 화장품 무료 샘플 및 할인정보 애플리케이션 (2016.06 ~ 2016.07)
@@ -48,7 +48,7 @@
 12. [OverViewer](https://play.google.com/store/apps/details?id=com.overviewer) : [플레이오버워치](https://playoverwatch.com/ko-kr/) HTML 파싱을 이용한 오버워치 전적정보 조회 어플리케이션 (2017.06~2017.06)
 13. [FYD - For Your Diablo](https://play.google.com/store/apps/details?id=com.choisfamily.fyd) : 블리자드 API 를 이용한 디아블로3 전투정보실 어플리케이션 (2017.06~2017.07)
 
-### 2. Backend & Api Server
+### 2. Web & Server
 1. 샘플조아 관리자 페이지 및 API 서버 (JSP -> Node.js) : 샘플조아 관련 프로젝트 (2016.06 ~ 2016.07)
 2. 편의점 천국 관리자 페이지 및 API 서버 (Node.js) : 편의점 천국 관련 프로젝트 (2016.08 ~ 2016.09)
 3. 운세관련 통합 관리자 페이지 및 API 서버 (Node.js) : 운세비결 관련 프로젝트 (2016.09 ~ 2016.11)
@@ -60,7 +60,7 @@
 
 ## Etc
 1. 2015 Google HackFair
-2. 2016 동계 아주대학교 안드로이드 강의 출강 (2016.01)
+2. 2016 동계방학 아주대학교 안드로이드 강의 출강 (2016.01 ~ 2016.01)
 3. [수원스마트앱개발학원](https://www.suwonsmartapp.com/) 주말 안드로이드 수업진행 (2016.06 ~ 2016.08)
 4. [수원스마트앱개발학원](https://www.suwonsmartapp.com/) 평일 (주 3일) Node.js 수업 진행 (2017.02 ~ 2017.04)
 
